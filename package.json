@@ -1,0 +1,7 @@
+{
+  "name": "test-event-bus",
+  "version": "1.0.0",
+  "dependencies": {
+    "@innenrinde/event-bus": "^1.0.0"
+  }
+}
