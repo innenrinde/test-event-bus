@@ -2,23 +2,28 @@
 
 @innenrinde/event-bus
 
-Clone this repository
+### Clone this repository
 ```
 git clone ...
 ```
 
-Install dependencies
+### Install dependencies
 ```
 npm install
 ```
 
-Run index.js
+### Test configuration
 ```
 node index.js
 ```
 
-Test is OK if displayed
+### Tests OK if displayed
 ```
 100
 300
+```
+
+### Test with vitest
+```
+node test
 ```
